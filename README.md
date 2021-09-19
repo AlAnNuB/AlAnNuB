@@ -1,8 +1,11 @@
 ## Olá! Sou Alan Miranda, seja bem vindo ao meu perfil do GitHub.
 <div>
-  <a href="https://github.com/AlAnNuB">
-  <img height=160px src="https://github-readme-stats.vercel.app/api?username=AlAnNuB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlAnNuB&layout=compact&langs_count=7&theme=github_dark"/>
+<a href="https://github.com/AlAnNuB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlAnNuB&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" height="180">
+</a>
+<a href="https://github.com/AlAnNuB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlAnNuB&layout=compact&langs_count=7&theme=github_dark" height="180">
+</a>
 </div> 
   
   ##
